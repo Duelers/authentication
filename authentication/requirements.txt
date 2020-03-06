@@ -1,0 +1,5 @@
+aiohttp
+passlib
+pyyaml
+pyjwt
+cryptography

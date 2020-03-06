@@ -1,0 +1,4 @@
+users:
+  url: "http://localhost:8080"
+keys:
+  location: "/var/config/keys/private.key"
